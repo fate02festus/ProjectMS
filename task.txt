@@ -1,0 +1,19 @@
+Project status
+
+Started
+On going
+Oh hold
+pending
+Due
+Complete
+Stalled
+
+======
+==add project lacation on project
+===
+Add images of the prject
+percentage of work done==>done
+
+timeline-->
+compare project timeline with duration. then add a flag
+
